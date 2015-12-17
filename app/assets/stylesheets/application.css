@@ -22,6 +22,13 @@
  	display: inline-block;
  }
 
+ .row {
+ 	display: inline-block;
+ 	clear: both;
+ 	position: absolute;
+ 	float: right;
+ }
+
  p {
  	font-size: 1.2em;
  }
